@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Simple USB Terminal</string>
+    <string name="devices">USB Devices</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="menu_connect">Connect</string>
+    <string name="menu_disconnect">Disconnect</string>
+    <string name="menu_scan">Scan</string>
+    <string name="menu_stop">Stop</string>
+
+    <string name="bluetooth_search">블루투스 검색</string>
+    <string name="discovered_devices">검색된 디바이스 목록</string>
+    <string name="search_text">검색</string>
+    <string name="chart_guide">✓ 안내! 위 차트는 최대 7일 데이터를 보여줍니다.(가장 최신)</string>
+    <string name="init_chart_type">잠혈</string>
+    <string name="Inspection_history">검사 내역</string>
+    <string name="register_title">회원가입</string>
+    <string name="title_id">아이디</string>
+    <string name="id_hint">아이디를 입력해주세요.</string>
+    <string name="pwd_hint">비밀번호를 입력해주세요.</string>
+    <string name="pwd2_hint">비밀번호를 재입력 해주세요.</string>
+    <string name="name_hint">이름을 입력해주세요.</string>
+    <string name="cancel">취소</string>
+    <string name="pwd_title">비밀번호</string>
+    <string name="pwd2_title">비밀번호 확인</string>
+    <string name="name_title">이름</string>
+    <string name="login">로그인</string>
+    <string name="id_pass_search">ID/PASS 찾기</string>
+    <string name="default_name">--------- 님</string>
+    <string name="main_comment">오늘도 즐거운 하루 되세요</string>
+    <string name="main_btn_item1">검사하기</string>
+    <string name="main_btn_item2">최근 검사결과</string>
+    <string name="main_btn_item3">검사내역</string>
+    <string name="main_btn_item4">결과 내역 추이</string>
+    <string name="empty_text">검색된 내역이 없습니다.</string>
+</resources>
